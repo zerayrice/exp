@@ -12,4 +12,4 @@ class ExpTest(unittest.TestCase):
         self.assertEqual(exp.min(3,2), 1)
 
     def test_muti(self):
-        self.assertEqual(exp.muti(3,2), 5)
+        self.assertEqual(exp.muti(3,2), 6)
