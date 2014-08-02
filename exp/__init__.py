@@ -5,3 +5,6 @@ def add(a, b):
 
 def min(a, b):
     return a - b
+
+def muti(a, b):
+    return a * b
